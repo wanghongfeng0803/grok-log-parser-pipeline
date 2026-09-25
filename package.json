@@ -1,0 +1,14 @@
+{
+  "name": "grok-log-parser-pipeline",
+  "version": "1.0.0",
+  "description": "日志 Grok 解析与字段抽取流水线",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
